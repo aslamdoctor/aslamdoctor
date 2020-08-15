@@ -37,6 +37,17 @@
 ➡️ [more blog posts...](https://aslamdoctor.com)
 
 
+---
+
+<details>
+  <summary>⚡ Github Stats</summary>
+
+  [![Aslam Doctor's github stats](https://github-readme-stats.vercel.app/api?username=aslamdoctor)](https://github.com/anuraghazra/github-readme-stats)
+
+
+</details>
+
+
 
 [website]: https://aslamdoctor.com
 [twitter]: https://twitter.com/aslammdoctor
