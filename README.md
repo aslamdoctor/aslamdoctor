@@ -27,11 +27,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Add Google AdSense verification code inside Nuxt JS](https://aslamdoctor.com/blog/add-google-adsense-verification-code-inside-nuxt-js/294)
-- [Simple CRUD App using Express & NuxtJS using serverMiddleware – Part 2/2](https://aslamdoctor.com/blog/simple-crud-app-using-express-nuxtjs-using-servermiddleware-part-2-2/280)
-- [Simple CRUD App using Express & NuxtJS using serverMiddleware – Part 1/2](https://aslamdoctor.com/blog/simple-crud-app-using-express-nuxtjs-using-servermiddleware-part-1-2/239)
-- [Some basics of using Vuex with NuxtJS (using Example)](https://aslamdoctor.com/blog/some-basics-of-using-vuex-with-nuxtjs-using-example/233)
-- [Using vuejs-datepicker with Nuxt JS](https://aslamdoctor.com/blog/using-vuejs-datepicker-with-nuxt-js/226)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://aslamdoctor.com)
