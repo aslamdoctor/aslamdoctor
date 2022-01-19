@@ -7,7 +7,7 @@
 
 - 💵 I'm currently working as freelancer at aslamdoctor.com
 - ⛏ I like using platforms like VueJS, NuxtJS, NodeJS, Laravel & WordPress
-- 📦 I'm also the author of [Rearrange Woocommerce Products](https://wordpress.org/plugins/rearrange-woocommerce-products/) plugin which as currently **10000+ active downloads** and 48000+ all time downloads.
+- 📦 I'm also the author of [Rearrange Woocommerce Products](https://wordpress.org/plugins/rearrange-woocommerce-products/) plugin which as currently **10000+ active downloads** and 100000+ all time downloads.
 - 🎓 I'm currently learning GoLang using [Udemy course](https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/) by Jose Portilla
 - 👨‍👩‍👧‍👦 I'm a loving husband and father of 2 kids.
 - 🎮 Fun fact: I also love to do PC gaming and I own a gaming blog which is soon to be launched.
