@@ -1,7 +1,7 @@
 ### Hello, I'm Aslam Doctor - at [aslamdoctor.com](https://aslamdoctor.com)
 
 
-[![Website](https://img.shields.io/website?label=aslamdoctor.com&style=for-the-badge&url=https%3A%2F%2Faslamdoctor.com)](https://aslamdoctor.com) [![Twitter Follow](https://img.shields.io/twitter/follow/aslammdoctor?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Faslammdoctor&screen_name=aslammdoctor)
+[![Website](https://img.shields.io/website?label=aslamdoctor.com&style=for-the-badge&url=https%3A%2F%2Faslamdoctor.com)](https://aslamdoctor.com) 
 
 ## I'm a Full stack web developer who loves to keep learning
 
