@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aslamdoctor&label=Profile%20views&color=0e75b6&style=plastic" alt="aslamdoctor" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aslamdoctor" alt="aslamdoctor" /></a> </p>
-
 - 🔭 I’m currently working on [Multiple projects at Codeable and some of my regular clients](https://www.codeable.io/developers/aslam-doctor/)
 
 - 🌱 I’m currently learning **React JS using Udemy course by Andrei Neagoie**
