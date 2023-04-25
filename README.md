@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aslamdoctor&label=Profile%20views&color=0e75b6&style=plastic" alt="aslamdoctor" /> </p>
 
-- 🔭 I’m currently working on [Multiple projects at Codeable and some of my regular clients](https://www.codeable.io/developers/aslam-doctor/)
+- 🔭 I’m currently working as a Frontend Engineer at [WebDevStudios](https://www.webdevstudios.com/)
 
-- 🌱 I’m currently learning **React JS using Udemy course by Andrei Neagoie**
+- 🌱 I’m currently learning **React JS & Next JS** to improve my skill-set
 
 - 👯 I’m also an opensource contributor for WordPress [WordPress Plugins](https://profiles.wordpress.org/aslamdoctor/)
 
