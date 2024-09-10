@@ -28,7 +28,7 @@
 <a href="https://stackoverflow.com/users/aslamdoctor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aslamdoctor" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/aslamd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aslamd" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aslamdoctor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aslamdoctor" height="30" width="40" /></a>
-<a href="/https://www.aslamdoctor.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.aslamdoctor.com/feed/" height="30" width="40" /></a>
+<a href="https://www.aslamdoctor.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.aslamdoctor.com/feed/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
