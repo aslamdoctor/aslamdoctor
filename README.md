@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a Frontend Engineer at [WebDevStudios](https://www.webdevstudios.com/)
 
-- 🌱 I’m currently learning **React JS & Next JS** to improve my skill-set
+- 🌱 I’m currently learning **Next JS** to improve my skill-set
 
 - 👯 I’m also an opensource contributor for WordPress [WordPress Plugins](https://profiles.wordpress.org/aslamdoctor/)
 
