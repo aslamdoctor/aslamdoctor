@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **https://www.aslamdoctor.com/contact/**
 
-- 📄 Know about my experiences [https://www.dropbox.com/s/q38y4maher68oq4/Aslam%20Doctor%20-%20Resume.pdf?dl=0](https://www.dropbox.com/s/q38y4maher68oq4/Aslam%20Doctor%20-%20Resume.pdf?dl=0)
+- 📄 Know about my experiences [Download Resume](https://www.aslamdoctor.com/wp-content/uploads/2024/09/Aslam-Doctor-Resume-2024.pdf)
 
 - ⚡ I am a **loving husband and father of 2 kids**
 
