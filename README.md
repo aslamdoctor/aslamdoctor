@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next JS** to improve my skill-set
 
-- 👯 I’m also an opensource contributor for WordPress [WordPress Plugins](https://profiles.wordpress.org/aslamdoctor/)
+- 👯 I’m also an opensource contributor for multiple projects including WordPress [WordPress Plugins](https://profiles.wordpress.org/aslamdoctor/)
 
 - 👨‍💻 To view all of my best work, please request me from my website [https://www.aslamdoctor.com/contact/](https://www.aslamdoctor.com/contact/)
 
