@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aslamdoctor&label=Profile%20views&color=0e75b6&style=plastic" alt="aslamdoctor" /> </p>
 
-- 🔭 I’m currently working as a Frontend Engineer at [WebDevStudios](https://www.webdevstudios.com/)
+- 🔭 I’m currently working as a Web Developer for Thrive Themes at [AwesomeMotive](https://awesomemotive.com/)
 
 - 🌱 I’m currently learning **Next JS** to improve my skill-set
 
