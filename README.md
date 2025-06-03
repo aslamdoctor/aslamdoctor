@@ -19,6 +19,10 @@
 
 - ⚡ I am a **loving husband and father of 2 kids**
 
+
+[![Aslam's WordPress Activity](https://www.cardpress.us/card?username=aslamdoctor&badges=true)](https://profiles.wordpress.org/aslamdoctor/)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aslammdoctor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aslammdoctor" height="30" width="40" /></a>
