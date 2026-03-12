@@ -1,36 +1,86 @@
-<h1 align="center">Hi 🙏, I'm Aslam Doctor</h1>
-<h3 align="center">Full Stack Web Developer & Certified WordPress Expert</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aslamdoctor&label=Profile%20views&color=0e75b6&style=plastic" alt="aslamdoctor" /> </p>
-
-- 🔭 I’m currently working as a Web Developer for Thrive Themes at [AwesomeMotive](https://awesomemotive.com/)
-
-- 👯 I’m also an opensource contributor for multiple projects including WordPress [WordPress Plugins](https://profiles.wordpress.org/aslamdoctor/)
-
-- 👨‍💻 To view all of my best work, please request me from my website [https://www.aslamdoctor.com/contact/](https://www.aslamdoctor.com/contact/)
-
-- 📝 I regularly write articles on [https://www.aslamdoctor.com/](https://www.aslamdoctor.com/)
-
-- 💬 Ask me about **WordPress, Vue, Nuxt**
-
-- 📫 How to reach me **https://www.aslamdoctor.com/contact/**
-
-- 📄 Know about my experiences [Download Resume](https://www.aslamdoctor.com/wp-content/uploads/2024/09/Aslam-Doctor-Resume-2024.pdf)
-
-- ⚡ I am a **loving husband and father of 2 kids**
-
-
-[![Aslam's WordPress Activity](https://www.cardpress.us/card?username=aslamdoctor&badges=true)](https://profiles.wordpress.org/aslamdoctor/)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aslammdoctor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aslammdoctor" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aslamdoctor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aslamdoctor" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/aslamdoctor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aslamdoctor" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/aslamd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aslamd" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aslamdoctor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aslamdoctor" height="30" width="40" /></a>
-<a href="https://www.aslamdoctor.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.aslamdoctor.com/feed/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer;AI+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aslamdoctor&show_icons=true&theme=dark&locale=en" alt="aslamdoctor" /></p>
+<h3 align="center">Aslam Doctor — Building for the web, one commit at a time.</h3>
+
+---
+
+### About Me
+
+I'm a full-stack developer with 20+ years of experience, currently working at **Thrive Themes / AwesomeMotive**. I contribute to WordPress core, Gutenberg, and Playground, and maintain open-source plugins like **Rearrange WooCommerce Products** (20 000+ active installs). I also organize the **Navsari WordPress Meetup** to help grow the local developer community.
+
+When I'm not coding, you'll find me PC gaming or experimenting with AI tooling.
+
+---
+
+### Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <br />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <br />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <br />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aslamdoctor&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslamdoctor&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+</p>
+
+---
+
+### Open Source Highlights
+
+- **[Rearrange WooCommerce Products](https://wordpress.org/plugins/rearrange-woocommerce-products/)** — Drag-and-drop product reordering for WooCommerce (20 000+ active installs)
+- **[WordPress.org Contributor](https://profiles.wordpress.org/aslamdoctor/)** — Core, Playground, Gutenberg
+- **[Navsari WordPress Meetup](https://www.meetup.com/navsari-wordpress-meetup-group/)** — Organizer
+
+---
+
+### Latest Blog Posts
+
+- [WordPress Abilities API: A Complete Guide with Usage Examples](https://www.aslamdoctor.com/wordpress-abilities-api-a-complete-guide-with-usage-examples/) (Jan 2026)
+- [12 Proven Techniques to Save Tokens in Claude Code](https://www.aslamdoctor.com/12-proven-techniques-to-save-tokens-in-claude-code/) (Jan 2026)
+- [A Friendly Guide to Agents and Sub-Agents in Claude Code](https://www.aslamdoctor.com/a-friendly-guide-to-agents-and-sub-agents-in-claude-code/) (Jan 2026)
+
+[**Read more articles →**](https://www.aslamdoctor.com/articles/)
+
+---
+
+<p align="center">
+  <a href="https://linkedin.com/in/aslamdoctor">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://profiles.wordpress.org/aslamdoctor/">
+    <img src="https://img.shields.io/badge/WordPress.org-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress.org" />
+  </a>
+  <a href="https://x.com/aslammdoctor">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
+  </a>
+  <a href="https://instagram.com/aslamdoctor">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.aslamdoctor.com">
+    <img src="https://img.shields.io/badge/Website-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+</p>
