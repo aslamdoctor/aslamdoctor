@@ -55,6 +55,12 @@ When I'm not coding, you'll find me PC gaming or experimenting with AI tooling.
 - **[WordPress.org Contributor](https://profiles.wordpress.org/aslamdoctor/)** — Core, Playground, Gutenberg
 - **[Navsari WordPress Meetup](https://www.meetup.com/navsari-wordpress-meetup-group/)** — Organizer
 
+<p align="center">
+  <a href="https://profiles.wordpress.org/aslamdoctor/">
+    <img src="https://cardpress.us/card?username=aslamdoctor&badges=true" alt="WordPress Profile Card" />
+  </a>
+</p>
+
 ---
 
 ### Latest Blog Posts
