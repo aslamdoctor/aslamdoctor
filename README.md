@@ -10,7 +10,7 @@
 
 ### About Me
 
-I'm a full-stack developer with 20+ years of experience, currently working at **Thrive Themes / AwesomeMotive**. I contribute to WordPress core, Gutenberg, and Playground, and maintain open-source plugins like **Rearrange WooCommerce Products** (20 000+ active installs). I also organize the **Navsari WordPress Meetup** to help grow the local developer community.
+I'm a full-stack developer with 15+ years of experience, currently working at **Thrive Themes / AwesomeMotive**. I contribute to WordPress core, Gutenberg, and Playground, and maintain open-source plugins like **Rearrange WooCommerce Products** (20 000+ active installs). I also organize the **Navsari WordPress Meetup** to help grow the local developer community.
 
 When I'm not coding, you'll find me PC gaming or experimenting with AI tooling.
 
